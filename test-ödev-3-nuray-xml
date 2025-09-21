@@ -1,0 +1,15 @@
+<employee>
+  <id>1</id>
+  <firstName>Nuray</firstName>
+  <lastName>Sabri</lastName>
+  <age>29</age>
+  <email>nuraysabritest@mail.com</email>
+  <phone>+90 535 999 88 77</phone>
+  <address>
+    <city>Bursa</city>
+    <district>Nilüfer</district>
+    <country>Turkey</country>
+  </address>
+  <department>QA</department>
+  <salary>50000</salary>
+</employee>

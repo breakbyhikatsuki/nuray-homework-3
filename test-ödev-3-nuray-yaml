@@ -1,0 +1,13 @@
+employee:
+  id: 1
+  firstName: "Nuray"
+  lastName: "Sabri"
+  age: 29
+  email: "nuraysabritest@mail.com"
+  phone: "+90 535 999 88 77"
+  address:
+  - city: "Bursa"
+  - district: "Nilüfer"
+  - country: "Turkey"
+  department: "QA"
+  salary: 50000
